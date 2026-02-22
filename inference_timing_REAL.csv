@@ -1,0 +1,3 @@
+Model,Hardware,Single Image Inference (s),Batch Average (30 images) (s),Method
+Custom CNN (Frontal),Intel i7-9750H CPU,0.06606693267822265,0.010127862294514975,Measured with dummy weights
+Custom CNN (Profile),Intel i7-9750H CPU,0.06395728588104248,0.008765896161397299,Measured with dummy weights

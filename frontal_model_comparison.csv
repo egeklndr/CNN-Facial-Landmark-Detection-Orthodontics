@@ -1,0 +1,6 @@
+Model,Validation MSE,Validation MAE
+Custom CNN,0.0023,0.0256
+InceptionV3,0.0353,0.1470
+MobileNetV2,0.0455,0.1760
+EfficientNetB0,0.0475,0.1755
+ResNet50,0.0492,0.1687
